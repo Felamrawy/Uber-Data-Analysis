@@ -42,3 +42,8 @@ The project includes a built-in **Dash** application to explore the data dynamic
 1. **Dependencies:**
    ```bash
    pip install pandas plotly dash dash-bootstrap-components numpy
+   ```
+
+2. Open [EDA-UBER.ipynb](./EDA-UBER.ipynb) and run the final cell, or run the script containing the Dash code.
+
+3. Access the dashboard in your browser at: http://127.0.0.1:8054
